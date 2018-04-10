@@ -1,4 +1,4 @@
-package com.tastewith;
+package com.newtowels.tastewith;
 
 import com.facebook.react.ReactActivity;
 
