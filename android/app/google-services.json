@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "30786583002",
+    "firebase_url": "https://tastewith-eb7f3.firebaseio.com",
+    "project_id": "tastewith-eb7f3",
+    "storage_bucket": "tastewith-eb7f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30786583002:android:ce788e0af78b9795",
+        "android_client_info": {
+          "package_name": "com.newtowels.tastewith"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "30786583002-s0c5qv9dk786hfkbllcv4njb8v6uudnh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXCwDu9uYze-l3w_gs0bv5V8r-eu9B-zo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
